@@ -1,0 +1,4 @@
+CUE: Thiba 2b
+TIP: Xiguan x1
+GRIP: Blended Grip
+Extension: BinsatWood
